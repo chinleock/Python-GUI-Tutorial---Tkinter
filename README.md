@@ -8,4 +8,4 @@ You can get the IPython notebook and the dependencies by using pip
 ```python
 pip install "ipython[notebook]"
 ```
-Or download and install Continuum's Anaconda, please see detail from IPython page:[http://ipython.org/install.html](http://ipython.org/install.html)
+Or download and install Continuum's Anaconda, please see detail from IPython page: [http://ipython.org/install.html](http://ipython.org/install.html)
